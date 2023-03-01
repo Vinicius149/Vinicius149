@@ -6,6 +6,7 @@ I work as a Police Officer since 2015 and started to study "System Analisys and 
 
 Currently i'm studying JAVA, C#, and some Database basics (MySQL) and excited to learn more about coding, databases and cybersecurity. It's going to be challenging, but I am ready to work hard and gain the skills and knowledge needed to excel in this field!
 
+Looking for connections!
 Have a good day!
 
 :cop::books:
