@@ -11,4 +11,4 @@ Apesar de ser iniciante, procuro projetos Open Source para contribuir!
 
 :cop::books:
 
-
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Vinicius149)
