@@ -1,14 +1,14 @@
-# My IT journey!
+Desenvolvedor no governo do estado de São Paulo. Tenho conhecimentos em:
+ - PHP 
+ - Mysql 
+ - HTML/CSS3 
+ - Wordpress 
+ - Java
+ 
+Atualmente cursando Análise e Desenvolvimento de Sistemas pelo SENAC, buscando ampliar meus conhecimentos e habilidades na área de TI. Sou uma pessoa comprometida, responsável e sempre disposta a aprender coisas novas. Gosto de trabalhar em equipe, resolver problemas e criar soluções inovadoras. Estou em busca de novas oportunidades e desafios profissionais que me permitam crescer e contribuir para o sucesso de projetos. Se você quiser saber mais sobre mim, entre em contato!
 
-I am embarking on a new journey of studying Information Technology. Since i was a kid, i have always been fascinated by the power of technology and its ability to transform the world.
-
-I work as a Police Officer since 2015 and started to study "System Analisys and Development" in SENAC on 2021.
-
-Currently learning JAVA, C#, and some Database basics (MySQL) and excited to learn more about coding, databases and cybersecurity. It's going to be challenging, but I am ready to work hard and gain the skills and knowledge needed to excel in this field!
-
-Looking for connections!
-
+Apesar de ser iniciante, procuro projetos Open Source para contribuir!
 
 :cop::books:
 
-#ITJourney #NewBeginnings #Excited
+
