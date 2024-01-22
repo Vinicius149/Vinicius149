@@ -11,4 +11,6 @@ Apesar de ser iniciante, procuro projetos Open Source para contribuir!
 
 :cop::books:
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius149&layout=compact)
+
 ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Vinicius149)
