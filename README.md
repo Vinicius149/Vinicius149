@@ -11,34 +11,38 @@
 
 **Aplicações e dados**
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,laravel,react,mysql)](https://skillicons.dev)
 
 **Utilidades**
-
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+[![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
 
 **DevOps**
+[![My Skills](https://skillicons.dev/icons?i=git,docker,github,linux)](https://skillicons.dev)
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 **Ferramentas de desenvolvimento**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+[![My Skills](https://skillicons.dev/icons?i=vscode,figma)](https://skillicons.dev)
 
 <br/>
 
 <a href="https://github.com/Vinicius149" title="Perfil do Vinicius">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicius149&theme=dracula&show_icons=true" />
 </a>
+
+## Projetos
+
+https://github.com/Vinicius149/tempo-app
+Projeto de uma aplicação de previsão do tempo para estudos em REACT.
+
+https://github.com/Autistalive/autistalive-ui
+
+Autista.live é uma solução de identificação digital desenvolvida para atender uma necessidade da comunidade autista.
+
+https://github.com/WilsonFelippi/PI-Dosix
+
+(Projeto Acadêmico) O !dosix é uma plataforma destinada a conexão entre profissionais especializados em cuidados com idosos e famílias que precisam de cuidadores, enfermeiros, etc. A plataforma visa facilitar a conexão entre idosos e quem está procurando por profissionais capazes e confiáveis e fornecer um suporte eficaz.
+
+
 
 ## Onde me encontrar
 
