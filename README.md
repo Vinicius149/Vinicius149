@@ -14,13 +14,16 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,laravel,react,mysql)](https://skillicons.dev)
 
 **Utilidades**
+
 [![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
 
 **DevOps**
+
 [![My Skills](https://skillicons.dev/icons?i=git,docker,github,linux)](https://skillicons.dev)
 
 
 **Ferramentas de desenvolvimento**
+
 [![My Skills](https://skillicons.dev/icons?i=vscode,figma)](https://skillicons.dev)
 
 <br/>
