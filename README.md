@@ -35,15 +35,16 @@
 ## Projetos
 
 https://github.com/Vinicius149/tempo-app
-Projeto de uma aplicação de previsão do tempo para estudos em REACT.
+
+> Projeto de uma aplicação de previsão do tempo para estudos em REACT.
 
 https://github.com/Autistalive/autistalive-ui
 
-Autista.live é uma solução de identificação digital desenvolvida para atender uma necessidade da comunidade autista.
+> Autista.live é uma solução de identificação digital desenvolvida para atender uma necessidade da comunidade autista.
 
 https://github.com/WilsonFelippi/PI-Dosix
 
-(Projeto Acadêmico) O !dosix é uma plataforma destinada a conexão entre profissionais especializados em cuidados com idosos e famílias que precisam de cuidadores, enfermeiros, etc. A plataforma visa facilitar a conexão entre idosos e quem está procurando por profissionais capazes e confiáveis e fornecer um suporte eficaz.
+> (Projeto Acadêmico) O !dosix é uma plataforma destinada a conexão entre profissionais especializados em cuidados com idosos e famílias que precisam de cuidadores, enfermeiros, etc. A plataforma visa facilitar a conexão entre idosos e quem está procurando por profissionais capazes e confiáveis e fornecer um suporte eficaz.
 
 
 
