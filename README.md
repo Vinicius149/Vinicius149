@@ -20,11 +20,10 @@
 
 
 
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinicius149&show_icons=true&locale=en&layout=compact" alt="vinicius149" /></p>
 
-<a href="https://github.com/Vinicius149" title="Perfil do Vinicius">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicius149&theme=dracula&show_icons=true" />
-</a>
 
 ## Projects
 
