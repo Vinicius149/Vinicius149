@@ -5,7 +5,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+## Programming languages and Frameworks:
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,laravel,react,mysql)](https://skillicons.dev)
+
+## Tools
+
 [![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git,docker,github,linux)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vscode,figma)](https://skillicons.dev)
